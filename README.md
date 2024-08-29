@@ -56,7 +56,7 @@ Fill in what each of the elements of the diff mean (if you are not sure just gue
 > index id
 
 **③**:
-> The file being overwriten
+> The file getting overwriten
 
 **④**:
 > Represents the different chunks of changes that can be commited individuall.
