@@ -53,7 +53,7 @@ Fill in what each of the elements of the diff mean (if you are not sure just gue
 > Choosing the two files to diff
 
 **②**:
-> index id
+> index id number
 
 **③**:
 > The file being overwriten
