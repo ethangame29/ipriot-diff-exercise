@@ -50,25 +50,25 @@ This is a repo to help you practice diffing!
 
 Fill in what each of the elements of the diff mean (if you are not sure just guess!):
 **①**:
-> Insert your explanation here
+> Choosing the two files to diff
 
 **②**:
-> Insert your answer here
+> index id
 
 **③**:
-> Insert your explanation here
+> The file being overwriten
 
 **④**:
-> Insert your answer here
+> Represents the different chunks of changes that can be commited individuall.
 
 **⑤**:
-> Insert your answer here
+> Unchanged line
 
 **⑥**:
-> Insert your explanation here
+> Original line
 
 **⑦**:
-> Insert your answer here
+> Original line
 
 
 Notice that the diff above only showed different **lines** in the file. Including whitespaces. We can also highlight changes at the word level with the --word-diff option:
